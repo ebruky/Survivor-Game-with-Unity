@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Zombiefix/Script/Zombi2.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Test.cs" Line="22" Column="27" />
+      <File FileName="Assets/Zombiefix/Script/Zombi2.cs" Line="21" Column="35" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Oyunbitti.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/OyuncuKontrol.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Zombie.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GunDonumu.cs" Line="1" Column="1" />
+      <File FileName="Assets/Zombiefix/Script/OyuncuKontrol2.cs" Line="1" Column="1" />
+      <File FileName="Assets/Zombiefix/Script/GunDonumu2.cs" Line="1" Column="1" />
+      <File FileName="Assets/Zombiefix/Script/KbZombi2.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
